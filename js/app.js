@@ -1,0 +1,1 @@
+class _app{id=0;videoElement=null;audioElement=null;musicVolume=.2;musicFadeIn=3e3;skippedIntro=!1;backgroundToggler=!1;shouldIgnoreVideo=!1;effects=["bounce","flash","pulse","rubberBand","shake","swing","tada","wobble","jello"];brandDescription=["it is","what","it is","♱"]}const app=new _app;
